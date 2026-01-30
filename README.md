@@ -61,7 +61,7 @@ I'm a developer passionate about building modern web applications and exploring 
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KirtikumarAlone&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirtikumarAlone&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KirtikumarAlone&theme=tokyonight&hide_border=true)
 
